@@ -9,7 +9,7 @@ name: permadeath
 description: if you die in the game, you feel sad in real life
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/permadeath.png
+avatar: https://permadeath.com/images/permadeath.png
 
 #
 # Flags below are optional
