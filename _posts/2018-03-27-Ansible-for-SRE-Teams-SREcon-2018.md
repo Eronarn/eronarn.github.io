@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ansible for SRE Teams (SREcon 2018)
+title: Ansible for SRE Teams (SREcon18 Americas)
 ---
 
-Hi! If you are reading this, you are probably taking my Ansible workshop at SREcon 2018. Here's what you need to know:
+Hi! If you are reading this, you are probably taking my Ansible workshop at SREcon18 Americas. Here's what you need to know:
 
 - [Register for the SREcon Slack](https://www.usenix.org/srecon/slack) and then join `#ansible-for-sre`. We'll use that for troubleshooting.
 
