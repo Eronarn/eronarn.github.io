@@ -4,6 +4,7 @@ title: "Sell Cron, Buy Airflow: Modern data pipelines in finance (Velocity New Y
 ---
 
 I [presented at Velocity New York 2018](https://conferences.oreilly.com/velocity/vl-ny/public/schedule/detail/70048) about Quantopian's use of [Apache Airflow](https://airflow.apache.org/) for our financial data pipelines. The [slides are available via Google Drive](https://drive.google.com/open?id=1gbfR79u4Ws8ctASZiGuQaslX3bHgnW5L9GFuyfQWRFM), while [the recording is available to O'Reilly Safari subscribers](https://www.oreilly.com/library/view/velocity-conference-/9781492025870/video323227.html).
+<!--more-->
 
 Here's the talk abstract:
 
