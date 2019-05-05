@@ -7,7 +7,7 @@ I presented a webinar version of my Velocity New York presentation, this time ti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/81F8A6tHM30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- more -->
+<!--more-->
 
 Here's the talk abstract:
 
