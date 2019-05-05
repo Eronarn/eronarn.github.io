@@ -7,6 +7,8 @@ I [presented at PyData DC 2018](https://pydata.org/dc2018/schedule/presentation/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dXlxFq4YgLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!-- more -->
+
 Here's the talk abstract:
 
 _The Quantopian data pipeline begins every night after equity trading in the US ends when the company ingests the day’s financial data from several vendors. Its Python infrastructure reconciles and cleans data to produce a unified view of history, repackages cleaned data into higher-performance formats, and produces analytics data that is provided to Quantopian’s worldwide community as a free portfolio risk model (usually only available to institutions)._
