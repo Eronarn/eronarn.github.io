@@ -7,7 +7,7 @@ I [presented at PyData DC 2018](https://pydata.org/dc2018/schedule/presentation/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dXlxFq4YgLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- more -->
+<!--more-->
 
 Here's the talk abstract:
 
