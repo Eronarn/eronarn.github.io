@@ -22,10 +22,10 @@ footer-links:
   facebook: eronarn
   flickr:
   github: eronarn
-  instagram:
+  instagram: jmeickle
   linkedin: eronarn
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: anything # just type anything here for a working RSS icon
   twitter: jmeickle
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -41,7 +41,7 @@ google_analytics: UA-15311544-8
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: permadeath.com
+url: https://permadeath.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
