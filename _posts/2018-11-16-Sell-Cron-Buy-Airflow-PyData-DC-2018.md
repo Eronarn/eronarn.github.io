@@ -5,6 +5,8 @@ title: "Sell Cron, Buy Airflow: Modern data pipelines in finance (PyData DC 2018
 
 I [presented at PyData DC 2018](https://pydata.org/dc2018/schedule/presentation/27/) about Quantopian's use of [Apache Airflow](https://airflow.apache.org/) for our financial data pipelines. [The video is available on YouTube](https://www.youtube.com/watch?v=dXlxFq4YgLk&index=13&list=PLGVZCDnMOq0p9pa2s8WXdjk7nU8iei9ay&t=0s), while the [slides are available via Google Drive](https://drive.google.com/open?id=1GDzjAwl6LGCb0UTrurXsd1orEhXwS6rr1x3P8QQ6GSU).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dXlxFq4YgLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Here's the talk abstract:
 
 _The Quantopian data pipeline begins every night after equity trading in the US ends when the company ingests the day’s financial data from several vendors. Its Python infrastructure reconciles and cleans data to produce a unified view of history, repackages cleaned data into higher-performance formats, and produces analytics data that is provided to Quantopian’s worldwide community as a free portfolio risk model (usually only available to institutions)._
