@@ -26,7 +26,7 @@ But I'm not calling for a party train from Boton to KubeCon, either, as fun as t
 
 ![_config.yml]({{ site.baseurl }}/images/lifestyle.svg)
 
-The emissions situation is even worse for frequent travelers, such as developer advocates or professional speakers. If you live in an urban area, taking your first cross-country flight is likely to completely outweigh your decision to not to own a car. Taking your second flight is likely to outweigh what you can offset with _all_ common lifestyle choices combined (like vegetarianism or improving home energy efficiency). What about the third such flight, or the fourth? What if the flights are cross-ocean instead?
+The emissions situation is even worse for frequent travelers, such as developer advocates or professional speakers. If you live in an urban area, taking your first cross-country flight is likely to completely outweigh your decision to not to own a car. Taking your second flight is likely to outweigh several common lifestyle choices combined (like vegetarianism or improving home energy efficiency). What about the third such flight, or the fourth? What if the flights are cross-ocean instead?
 
 It is clear that there are many people in the tech industry who are traveling much more frequently than this. This "conference-hopping" pattern of travel results in emissions so high that no personal decision could ever hope to offset it. Even switching to more efficient travel options like trains would still result in an exaggerated carbon footprint compared to their peers. (And those of us living in industrialized nations already have an unjustly large carbon footprint compared to the rest of the world!)
 
