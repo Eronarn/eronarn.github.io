@@ -7,7 +7,10 @@ title: Why I'm Not at Taco Tuesday
 
 I love [Kubernetes](https://kubernetes.io/), and it's easy to tell: I'd never spend so much energy complaining about something I didn't love! I've spent much of the past two years working on it, and have been able to keep using everything I've learned about Linux and scientific computing while embracing the new reality of systems having to be distributed from day zero and needing extensible integrations with proprietary vendors.
 
-But as much as I love the project, I won't be making [Taco Tuesday](https://kccncna19.sched.com/event-goers/6172742a809d943d43633001b4ff1ce5) at [KubeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/). It's certainly not a distaste for tacos, which are sorely lacking in Boston. Work would be thrilled if I took some time off, so it isn't that either. Nor are there any financial barriers to my attending; I was offered a free ticket, but I also could've put it on my company's training budget, or just paid for it out of pocket.
+But as much as I love the project, I won't be making [Taco Tuesday](https://kccncna19.sched.com/event-goers/6172742a809d943d43633001b4ff1ce5) at [KubeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/).
+<!--more-->
+
+ It's certainly not a distaste for tacos, which are sorely lacking in Boston. Work would be thrilled if I took some time off, so it isn't that either. Nor are there any financial barriers to my attending; I was offered a free ticket, but I also could've put it on my company's training budget, or just paid for it out of pocket.
 
 There's only one barrier to my attendance that matters: the flight from Boston to San Diego is 2,584 miles, and I can't possibly justify that environmental impact for a tech conference.
 
