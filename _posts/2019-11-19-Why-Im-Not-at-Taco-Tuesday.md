@@ -21,7 +21,7 @@ While the exact numbers are still up for debate, we are fairly certain that pass
 
 But I'm not calling for a party train from Boton to KubeCon, either, as fun as that might be! Choosing more sustainable transit might halve or even third your transit-related emissions, yet it still can't compete with not going at all. In a world already in the midst of climate crisis, _there is no form of sustainable long-distance transit that is based on fossil fuels_.
 
-![_config.yml]({{ site.baseurl }}/images/lifestyle.jpg)
+![_config.yml]({{ site.baseurl }}/images/lifestyle.svg)
 
 The emissions situation is even worse for frequent travelers, such as developer advocates or professional speakers. If you live in an urban area, taking your first cross-country flight is likely to completely outweigh your decision to not to own a car. Taking your second flight is likely to outweigh what you can offset with _all_ common lifestyle choices combined (like vegetarianism or improving home energy efficiency). What about the third such flight, or the fourth? What if the flights are cross-ocean instead?
 
