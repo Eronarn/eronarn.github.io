@@ -3,7 +3,7 @@ layout: post
 title: Moving on from Quantopian
 ---
 
-> _Note: Many others at Quantopian have been furloughed, so please take a look at what they're looking for too: TBD_
+> _Note: Many others at Quantopian have been furloughed through no fault of their own. I encourage you to [reach out to other Quantopian alumni](https://docs.google.com/spreadsheets/d/1ss-u3sMIwJn3qruYXDk-cb-Hfgs3ZvQzi0EOb0xQ3JY/edit#gid=1952339204) and help them find the new opportunities that they deserve._
 
 Hi, I'm James! For the past three years I've been a site reliability engineer (SRE) at Quantopian, a crowd-sourced quantitative investment startup. Unfortunately, COVID-19 impacted the company's ability to continue operations and the majority of employees were furloughed on Monday (4/20/2020). Since it is unclear when or if that furlough will end, I have decided to start a job search for a new role at the senior, lead, or engineering manager level.
 
