@@ -5,13 +5,13 @@ title: Moving on from Quantopian
 
 _NOTE: Many others at Quantopian have been furloughed, so please take a look at what they're looking for too: TBD_
 
-Hi, I'm James! For the past three years I've been a site reliability engineer (SRE) at Quantopian, a crowd-sourced quantitative investment startup. Unfortunately, COVID-19 impacted the company's ability to continue operations and the majority of employees were furloughed on Monday (4/20/2020). I've decided to pursue a new role at the senior, lead, or engineering manager level, ideally focused on SRE or devops.
+Hi, I'm James! For the past three years I've been a site reliability engineer (SRE) at Quantopian, a crowd-sourced quantitative investment startup. Unfortunately, COVID-19 impacted the company's ability to continue operations and the majority of employees were furloughed on Monday (4/20/2020). Since it is unclear when or if that furlough will end, I have decided to start a job search for a new role at the senior, lead, or engineering manager level.
 
 <!--more-->
 
 _Note: I am not open to relocation at this time, so I'm only considering transit-accessible roles in the Boston area or positions that will remain remote full-time after COVID-19. I'm also [avoiding air travel due to the climate emergency](http://permadeath.com/Why-Im-Not-at-Taco-Tuesday/), which limits how far I can travel for business reasons._
 
-I've been programming for about fifteen years and started out as a software engineer before gradually taking on more operations work. At this point I've been a "devops engineer" in one form or another for a decade. My current interests include cloud migration, data pipelines, CI/CD systems, and Kubernetes-native development. I've recently taken a lead role on several related projects:
+I've been programming for about fifteen years and started out as a full stack software engineer before gradually taking on more operations work. At this point I've been a "devops engineer" in one form or another for a decade. My current interests include cloud migration, data pipelines, CI/CD systems, and Kubernetes-native development. During my time at Quantopian, I had the opportunity to play a lead role on several projects along those lines:
 
 * Designing and building a system for serverless execution and analysis of Python trading algorithms using Kubernetes, Argo Workflows, Amazon S3 and Amazon Athena.
 
