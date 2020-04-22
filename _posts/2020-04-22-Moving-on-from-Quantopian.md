@@ -9,7 +9,7 @@ Hi, I'm James! For the past three years I've been a site reliability engineer (S
 
 <!--more-->
 
-_Note: I am not open to relocation at this time, so I'm only considering transit-accessible roles in the Boston area or positions that will remain remote full-time after COVID-19. I'm also [avoiding air travel due to the climate emergency](http://permadeath.com/Why-Im-Not-at-Taco-Tuesday/), which limits how far I can travel for business reasons._
+_Note: I am not open to relocation at this time, so I'm only considering transit-accessible roles in the Boston area or positions that will remain remote full-time after COVID-19. I'm also [avoiding air travel due to the climate emergency](https://permadeath.com/Why-Im-Not-at-Taco-Tuesday/), which limits how far I can travel for business reasons._
 
 I've been programming for about fifteen years and started out as a full stack software engineer before gradually taking on more operations work. At this point I've been a "devops engineer" in one form or another for a decade. My current interests include cloud migration, data pipelines, CI/CD systems, and Kubernetes-native development. During my time at Quantopian, I had the opportunity to play a lead role on several projects along those lines:
 
