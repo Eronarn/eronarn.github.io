@@ -10,4 +10,4 @@ James Meickle is a senior site reliability engineer at [Quantopian](https://www.
 
 ### Contact
 
-Please send inquiries to [eronarn@gmail.com](mailto:eronarn@gmail.com); recruiters currently discouraged.
+I am currently open to new roles. Please send inquiries to [eronarn@gmail.com](mailto:eronarn@gmail.com).
